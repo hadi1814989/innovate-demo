@@ -17,7 +17,7 @@ const Home = () => {
   <Banner />
   <Services />
   <Who />
-   <Multi />
+ <Multi />
   <Process />
   <Clint />
   <Blog />
