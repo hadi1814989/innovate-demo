@@ -5,7 +5,7 @@ import boxdown from '../assets/boxdown.png';
 import whoBox from '../assets/whoBox.png';
 import whoSmallBox from '../assets/whoSmallBox.png';
 
-const multi = () => {
+const Multi = () => {
   const [activeCategory, setActiveCategory] = useState('All');
   const images = [
     { id: 1, src: box, category: 'Digital Mkt' },
@@ -67,4 +67,4 @@ const multi = () => {
   );
 };
 
-export default multi;
+export default Multi;
